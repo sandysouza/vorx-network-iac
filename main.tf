@@ -16,7 +16,8 @@
     Terraform = "true"
     Environment = "Production"
     CC = "10502"
-    Team = "Devops"
+    OwnerSquad = "Osaka"
+    OwnerSRE =  "Valfenda"
   }
 }
 
